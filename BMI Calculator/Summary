@@ -1,0 +1,1 @@
+This simple calculator is my first attempt at using Express.js and body-parser to handle client side input from html forms to post responses from a server.
